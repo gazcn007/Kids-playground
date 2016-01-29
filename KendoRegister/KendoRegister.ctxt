@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=KendoRegister()
+comment2.params=newPlayer
+comment2.target=void\ insertNode(Player)
+comment3.params=newGame
+comment3.target=void\ insertGame(Game)
+comment4.params=node
+comment4.target=void\ displayRegister(Player)
+comment5.params=runner
+comment5.target=void\ displayGames(Game)
+comment6.params=wantedName
+comment6.target=void\ searchFor(java.lang.String)
+comment7.params=wantedName
+comment7.target=void\ trackFor(java.lang.String)
+numComments=8
