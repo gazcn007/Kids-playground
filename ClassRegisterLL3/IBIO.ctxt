@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=info
+comment0.target=void\ output(String)
+comment1.params=info
+comment1.target=void\ output(double)
+comment2.params=info
+comment2.target=void\ output(int)
+comment3.params=Prompt
+comment3.target=int\ inputInt(String)
+comment4.params=Prompt
+comment4.target=double\ inputDouble(String)
+comment5.params=prompt
+comment5.target=String\ input(String)
+comment6.target=String\ input()
+numComments=7
